@@ -15,7 +15,7 @@ zsh: command not found: brew
 
 先日、PHPカンファレンス福岡2024というイベントに行った。
 
-![phpconfuk logo](./images/phpconfuk.png)
+![phpconfuk logo](./images/phpconfuk.jpg)
 
 自分のセッションも終わり、イベントブースも一段落したのでセッションみよーと思ってパンフレット見ていたところ、「[Nixを用いて再現可能なPHP環境を用意する](https://fortee.jp/phpcon-fukuoka-2024/proposal/fde5c43f-885e-455b-9b4f-6fdb4c697a19)」なるセッションがあることに気づきました。
 
