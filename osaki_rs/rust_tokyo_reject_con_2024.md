@@ -6,4 +6,4 @@
 
 ### URL
 
-[Slide](https://www.canva.com/design/DAGVxdBroSg/aNEjfQPSJnj-eMYnub4qAw/edit?utm_content=DAGVxdBroSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Rustによるデータ可視化入門](https://www.canva.com/design/DAGVxdBroSg/aNEjfQPSJnj-eMYnub4qAw/edit?utm_content=DAGVxdBroSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
